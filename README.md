@@ -57,3 +57,8 @@ The final result displays two lists:
 Using the `display_world` function from the helpers.py file we can finally visualize the final position of the robot and the position of landmarks, created from only motion and measurement.
 
 ![SLAM world](images/location.png)
+
+## License (MIT)
+
+These tutorials and source-code are published under the [MIT License](LICENSE)
+which allows very broad use for both academic and commercial purposes.
